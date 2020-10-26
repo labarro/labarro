@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís</h1>
-<h3 align="center">I'm just a guy passionate with technologies and with a big desire to learn.</h3>
+<h3 align="center">I'm just a guy passionate about technologies and with a big desire to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labarro&label=Profile%20views&color=0e75b6&style=flat" alt="labarro" /> </p>
 
