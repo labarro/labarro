@@ -7,8 +7,7 @@ I'm a Software Engineer based in Maringá, Paraná, Brazil, with a strong focus 
 
 - 🏢 I'm currently working as a **Mid-Level Software Engineer at Deloitte**.
 - 🌱 I’m currently focused on **.NET (C#), Angular, Node.js, TypeScript, and Generative AI tools**.
-- 🚀 Building my own SaaS projects: **CareerPilot** & **Dermalize**.
-- ⚡ Fun fact: When I'm not coding, you can find me playing League of Legends (Garen main!).
+- ⚡ Fun fact: When I'm not coding, you can find me playing League of Legends.
 - 📫 How to reach me: **luisaugustosb93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
