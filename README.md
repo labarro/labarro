@@ -13,11 +13,8 @@
   <a href="https://linkedin.com/in/luisaugustosb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:luisaugustosb93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/gutoluis_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://devbarros.com">
+    <img src="https://img.shields.io/badge/Website-devbarros.com-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=labarro&label=Profile%20views&color=7f5af0&style=for-the-badge" />
 </p>
